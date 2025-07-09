@@ -10,7 +10,7 @@
 
 # 🔥 Updates
 
-*   \[3/2024\] **VMBench** evaluation code & prompt set released!
+*   \[3/2025\] **VMBench** evaluation code & prompt set released!
     
 
 # 📣 Overview
